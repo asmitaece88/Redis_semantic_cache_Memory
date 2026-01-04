@@ -13,7 +13,9 @@ https://github.com/asmitaece88/Redis_semantic_cache_Memory/blob/main/notebook_re
 # Exploration of usage of redis  as a short term memory in agents 
 https://github.com/asmitaece88/Redis_semantic_cache_Memory/blob/main/short_term_memory_langgraph.ipynb
 
-# Exploration of usage of redis  as a a long term memory in agents 
+# Exploration of usage of redis  as a a long term memory in agents ( based on user i and thread id )
+https://github.com/asmitaece88/Redis_semantic_cache_Memory/blob/main/long_term_memory_langraph.ipynb
+
 
 
 
